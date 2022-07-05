@@ -1,5 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
 }
 
 .half {
@@ -12,11 +13,19 @@ body {
     width: 60%;
 }
 
+p {
+    margin-top: 10px;
+    margin-bottom: 80px;
+    padding-right: 100px;
+}
+
 .flex {
     display: flex;
 }
 
-
+.bgimg {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
 
 #skip {
     color: orange;
@@ -34,4 +43,12 @@ body {
 
 h1 {
     font-size: 50px;
+}
+
+#lady {
+    height: 600px;
+}
+
+section {
+    margin-bottom: 100px;
 }
