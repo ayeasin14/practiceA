@@ -1,0 +1,37 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.half {
+    margin-top: 5%;
+    padding-left: 100px;
+    width: 50%;
+}
+
+.img {
+    width: 60%;
+}
+
+.flex {
+    display: flex;
+}
+
+
+
+#skip {
+    color: orange;
+}
+
+.link-area {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(245, 117, 13), rgb(236, 62, 18));
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 30px;
+
+}
+
+h1 {
+    font-size: 50px;
+}
